@@ -16,7 +16,7 @@ import android.widget.Toast;
  */
 public class MovieDescriptionActivity extends AppCompatActivity {
     private final String LOG_TAG = MovieDescriptionActivity.class.getSimpleName();
-    GridView mGridView = null;
+    GridView mGridView = null; 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
